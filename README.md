@@ -38,7 +38,6 @@ O **Hill-Climbing** mostrou limitação em mínimos locais, e o **Algoritmo Gen�
 # Clonar o repositório
 git clone https://github.com/fernandasouzx/PROBLEMAS_N_RAINHAS.git
 cd PROBLEMAS_N_RAINHAS
-python3 algoritmos_ia.py
 
 # Executar
-python3 main.py
+python3 algoritmos_ia.py
